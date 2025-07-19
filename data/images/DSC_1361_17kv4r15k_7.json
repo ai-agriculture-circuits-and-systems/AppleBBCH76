@@ -1,0 +1,204 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4996075385,
+      "width": 640,
+      "height": 640,
+      "file_name": "DSC_1361_17kv4r15k_7.jpg",
+      "size": 96455,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 4145742385,
+      "image_id": 4996075385,
+      "category_id": 7167998385,
+      "segmentation": [],
+      "area": 1650,
+      "bbox": [
+        66,
+        609,
+        55,
+        30
+      ]
+    },
+    {
+      "id": 9555985385,
+      "image_id": 4996075385,
+      "category_id": 7167998385,
+      "segmentation": [],
+      "area": 4420,
+      "bbox": [
+        400,
+        536,
+        68,
+        65
+      ]
+    },
+    {
+      "id": 8667636385,
+      "image_id": 4996075385,
+      "category_id": 7167998385,
+      "segmentation": [],
+      "area": 1368,
+      "bbox": [
+        0,
+        474,
+        24,
+        57
+      ]
+    },
+    {
+      "id": 6062776385,
+      "image_id": 4996075385,
+      "category_id": 7167998385,
+      "segmentation": [],
+      "area": 4556,
+      "bbox": [
+        135,
+        465,
+        67,
+        68
+      ]
+    },
+    {
+      "id": 5133231385,
+      "image_id": 4996075385,
+      "category_id": 7167998385,
+      "segmentation": [],
+      "area": 3599,
+      "bbox": [
+        78,
+        478,
+        59,
+        61
+      ]
+    },
+    {
+      "id": 9784504385,
+      "image_id": 4996075385,
+      "category_id": 7167998385,
+      "segmentation": [],
+      "area": 3835,
+      "bbox": [
+        224,
+        367,
+        65,
+        59
+      ]
+    },
+    {
+      "id": 8437932385,
+      "image_id": 4996075385,
+      "category_id": 7167998385,
+      "segmentation": [],
+      "area": 3840,
+      "bbox": [
+        242,
+        307,
+        60,
+        64
+      ]
+    },
+    {
+      "id": 2792882385,
+      "image_id": 4996075385,
+      "category_id": 7167998385,
+      "segmentation": [],
+      "area": 4761,
+      "bbox": [
+        182,
+        230,
+        69,
+        69
+      ]
+    },
+    {
+      "id": 5878614385,
+      "image_id": 4996075385,
+      "category_id": 7167998385,
+      "segmentation": [],
+      "area": 4032,
+      "bbox": [
+        124,
+        223,
+        64,
+        63
+      ]
+    },
+    {
+      "id": 2185480385,
+      "image_id": 4996075385,
+      "category_id": 7167998385,
+      "segmentation": [],
+      "area": 1892,
+      "bbox": [
+        411,
+        494,
+        44,
+        43
+      ]
+    },
+    {
+      "id": 1223616385,
+      "image_id": 4996075385,
+      "category_id": 7167998385,
+      "segmentation": [],
+      "area": 1696,
+      "bbox": [
+        335,
+        607,
+        53,
+        32
+      ]
+    },
+    {
+      "id": 135410385,
+      "image_id": 4996075385,
+      "category_id": 7167998385,
+      "segmentation": [],
+      "area": 2703,
+      "bbox": [
+        67,
+        431,
+        53,
+        51
+      ]
+    },
+    {
+      "id": 7143852385,
+      "image_id": 4996075385,
+      "category_id": 7167998385,
+      "segmentation": [],
+      "area": 952,
+      "bbox": [
+        36,
+        445,
+        28,
+        34
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 7167998385,
+      "name": "AppleBBCH76",
+      "supercategory": "apple"
+    }
+  ]
+}

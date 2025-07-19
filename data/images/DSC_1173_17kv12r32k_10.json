@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8858629381,
+      "width": 640,
+      "height": 640,
+      "file_name": "DSC_1173_17kv12r32k_10.jpg",
+      "size": 88152,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1575738381,
+      "image_id": 8858629381,
+      "category_id": 4276606381,
+      "segmentation": [],
+      "area": 3190,
+      "bbox": [
+        381,
+        388,
+        58,
+        55
+      ]
+    },
+    {
+      "id": 3704946381,
+      "image_id": 8858629381,
+      "category_id": 4276606381,
+      "segmentation": [],
+      "area": 2622,
+      "bbox": [
+        397,
+        576,
+        57,
+        46
+      ]
+    },
+    {
+      "id": 1320612381,
+      "image_id": 8858629381,
+      "category_id": 4276606381,
+      "segmentation": [],
+      "area": 2450,
+      "bbox": [
+        287,
+        36,
+        50,
+        49
+      ]
+    },
+    {
+      "id": 4524327381,
+      "image_id": 8858629381,
+      "category_id": 4276606381,
+      "segmentation": [],
+      "area": 2070,
+      "bbox": [
+        306,
+        0,
+        46,
+        45
+      ]
+    },
+    {
+      "id": 1484772381,
+      "image_id": 8858629381,
+      "category_id": 4276606381,
+      "segmentation": [],
+      "area": 3477,
+      "bbox": [
+        200,
+        15,
+        61,
+        57
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 4276606381,
+      "name": "AppleBBCH76",
+      "supercategory": "apple"
+    }
+  ]
+}

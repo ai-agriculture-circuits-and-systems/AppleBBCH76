@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6366977382,
+      "width": 640,
+      "height": 640,
+      "file_name": "DSC_1201_17kv13r21k_1.jpg",
+      "size": 83056,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 4972632382,
+      "image_id": 6366977382,
+      "category_id": 2468853382,
+      "segmentation": [],
+      "area": 2496,
+      "bbox": [
+        154,
+        0,
+        48,
+        52
+      ]
+    },
+    {
+      "id": 5201331382,
+      "image_id": 6366977382,
+      "category_id": 2468853382,
+      "segmentation": [],
+      "area": 1364,
+      "bbox": [
+        547,
+        0,
+        62,
+        22
+      ]
+    },
+    {
+      "id": 362404382,
+      "image_id": 6366977382,
+      "category_id": 2468853382,
+      "segmentation": [],
+      "area": 3840,
+      "bbox": [
+        453,
+        116,
+        60,
+        64
+      ]
+    },
+    {
+      "id": 282335382,
+      "image_id": 6366977382,
+      "category_id": 2468853382,
+      "segmentation": [],
+      "area": 3584,
+      "bbox": [
+        433,
+        148,
+        64,
+        56
+      ]
+    },
+    {
+      "id": 3420028382,
+      "image_id": 6366977382,
+      "category_id": 2468853382,
+      "segmentation": [],
+      "area": 3355,
+      "bbox": [
+        421,
+        213,
+        61,
+        55
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2468853382,
+      "name": "AppleBBCH76",
+      "supercategory": "apple"
+    }
+  ]
+}

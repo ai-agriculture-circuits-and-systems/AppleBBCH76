@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7302011381,
+      "width": 640,
+      "height": 640,
+      "file_name": "DSC_1176_17kv12r35k_2.jpg",
+      "size": 62790,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 246047381,
+      "image_id": 7302011381,
+      "category_id": 8848440381,
+      "segmentation": [],
+      "area": 4958,
+      "bbox": [
+        33,
+        349,
+        74,
+        67
+      ]
+    },
+    {
+      "id": 880938381,
+      "image_id": 7302011381,
+      "category_id": 8848440381,
+      "segmentation": [],
+      "area": 1344,
+      "bbox": [
+        0,
+        531,
+        28,
+        48
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 8848440381,
+      "name": "AppleBBCH76",
+      "supercategory": "apple"
+    }
+  ]
+}

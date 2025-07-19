@@ -1,0 +1,230 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8869900379,
+      "width": 640,
+      "height": 640,
+      "file_name": "DSC_1068_17kv10r25k_11.jpg",
+      "size": 75235,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 4014704379,
+      "image_id": 8869900379,
+      "category_id": 5565819379,
+      "segmentation": [],
+      "area": 1147,
+      "bbox": [
+        14,
+        64,
+        37,
+        31
+      ]
+    },
+    {
+      "id": 6056271379,
+      "image_id": 8869900379,
+      "category_id": 5565819379,
+      "segmentation": [],
+      "area": 1190,
+      "bbox": [
+        65,
+        177,
+        34,
+        35
+      ]
+    },
+    {
+      "id": 3959319379,
+      "image_id": 8869900379,
+      "category_id": 5565819379,
+      "segmentation": [],
+      "area": 2162,
+      "bbox": [
+        116,
+        151,
+        47,
+        46
+      ]
+    },
+    {
+      "id": 1282567379,
+      "image_id": 8869900379,
+      "category_id": 5565819379,
+      "segmentation": [],
+      "area": 2024,
+      "bbox": [
+        91,
+        62,
+        44,
+        46
+      ]
+    },
+    {
+      "id": 3325962379,
+      "image_id": 8869900379,
+      "category_id": 5565819379,
+      "segmentation": [],
+      "area": 1833,
+      "bbox": [
+        192,
+        134,
+        47,
+        39
+      ]
+    },
+    {
+      "id": 26124379,
+      "image_id": 8869900379,
+      "category_id": 5565819379,
+      "segmentation": [],
+      "area": 1591,
+      "bbox": [
+        303,
+        29,
+        43,
+        37
+      ]
+    },
+    {
+      "id": 2313308379,
+      "image_id": 8869900379,
+      "category_id": 5565819379,
+      "segmentation": [],
+      "area": 2009,
+      "bbox": [
+        347,
+        11,
+        49,
+        41
+      ]
+    },
+    {
+      "id": 6613628379,
+      "image_id": 8869900379,
+      "category_id": 5565819379,
+      "segmentation": [],
+      "area": 1638,
+      "bbox": [
+        230,
+        118,
+        42,
+        39
+      ]
+    },
+    {
+      "id": 8566402379,
+      "image_id": 8869900379,
+      "category_id": 5565819379,
+      "segmentation": [],
+      "area": 3190,
+      "bbox": [
+        509,
+        129,
+        58,
+        55
+      ]
+    },
+    {
+      "id": 5650379379,
+      "image_id": 8869900379,
+      "category_id": 5565819379,
+      "segmentation": [],
+      "area": 2640,
+      "bbox": [
+        491,
+        255,
+        55,
+        48
+      ]
+    },
+    {
+      "id": 179237379,
+      "image_id": 8869900379,
+      "category_id": 5565819379,
+      "segmentation": [],
+      "area": 2208,
+      "bbox": [
+        6,
+        382,
+        48,
+        46
+      ]
+    },
+    {
+      "id": 9401864379,
+      "image_id": 8869900379,
+      "category_id": 5565819379,
+      "segmentation": [],
+      "area": 2907,
+      "bbox": [
+        263,
+        482,
+        57,
+        51
+      ]
+    },
+    {
+      "id": 2371994379,
+      "image_id": 8869900379,
+      "category_id": 5565819379,
+      "segmentation": [],
+      "area": 2597,
+      "bbox": [
+        139,
+        578,
+        53,
+        49
+      ]
+    },
+    {
+      "id": 7503741379,
+      "image_id": 8869900379,
+      "category_id": 5565819379,
+      "segmentation": [],
+      "area": 1392,
+      "bbox": [
+        588,
+        90,
+        29,
+        48
+      ]
+    },
+    {
+      "id": 1141142379,
+      "image_id": 8869900379,
+      "category_id": 5565819379,
+      "segmentation": [],
+      "area": 3195,
+      "bbox": [
+        513,
+        70,
+        71,
+        45
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 5565819379,
+      "name": "AppleBBCH76",
+      "supercategory": "apple"
+    }
+  ]
+}
