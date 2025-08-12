@@ -112,6 +112,35 @@ ann_ids = coco.getAnnIds(imgIds=img['id'])
 anns = coco.loadAnns(ann_ids)
 ```
 
+Convert YOLO labels to COCO JSON:
+```bash
+# Per-split (requires split files in `sets/`)
+python scripts/convert_to_coco.py \
+  --images data/images \
+  --labels data/labels \
+  --out annotations \
+  --splits train val test \
+  --split-dir sets
+
+# Single combined file (all images found under data/images)
+python scripts/convert_to_coco.py \
+  --images data/images \
+  --labels data/labels \
+  --out annotations
+```
+
+Generate train/val/test split files:
+```bash
+python scripts/generate_splits.py --images data/images --out sets --train 0.8 --val 0.1 --test 0.1 --seed 42
+```
+
+Dependencies:
+```bash
+python -m pip install pillow
+# Optional, for the COCO API example above
+python -m pip install pycocotools
+```
+
 ## Evaluation and baselines
 - Metric: mAP@[.50:.95] (COCO), IoU for bbox overlap
 
