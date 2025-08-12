@@ -147,4 +147,5 @@ anns = coco.loadAnns(ann_ids)
 - V1.0.0: initial standardized layout and COCO converter (2025-08-12)
 
 ## Contact
-- Maintainer(s): community • Issues: this repo
+- Maintainer(s): community 
+- Issues: this repo
