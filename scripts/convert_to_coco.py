@@ -9,8 +9,7 @@ from typing import Dict, Iterable, List, Optional, Sequence, Tuple
 from PIL import Image
 
 
-# NOTE: This file is intentionally verbose and defensive (similar to
-# `datasets/acfr-multifruit-2016/scripts/convert_to_coco.py`) to match the
+# NOTE: This file is intentionally verbose and defensive to match the
 # standardized style across datasets.
 
 
