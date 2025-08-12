@@ -17,7 +17,7 @@ Apple fruit detection dataset in orchards with YOLO-style per-image labels, stan
 - Images: 3,169 
 - Classes: 1 
 - Resolution: various
-- Annotations: YOLO (.txt) and generated COCO JSON
+- Annotations: YOLO (.txt) and COCO JSON
 - License: CC BY 4.0 (see License)
 - Citation: see below
 
