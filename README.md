@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/) 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue)](#changelog)
 
-Apple fruit detection dataset in orchards with YOLO-style per-image labels, standardized to a COCO-compatible layout. Typical use-cases include object detection benchmarking and model training for yield estimation or counting.
+The photo fixation of apple fruitlets was done in the LatHort orchard in Dobele, at the development of fruit (BBCH stage 76-78). BBCH-scale describes the phenological development of grapes: 7 - development of fruit; 76 - fruit about 60% final size; 78 - fruit about 80% final size. Two photo images were taken for each tree – perpendicularly, in a tree-facing view and in an oblique view. The images were annotated using the tool makesense.ai. Then the annotated images 3008x2000 were automatically cropped out on 640x640 images with overlap 30% and validated manually. The images were saved in YOLO format.
 
 - Project page: `https://www.kaggle.com/datasets/projectlzp201910094/applebbch76` 
 - Issue tracker: use this repo
