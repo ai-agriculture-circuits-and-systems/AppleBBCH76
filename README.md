@@ -1,15 +1,22 @@
 # AppleBBCH76
 
-[![DOI](https://img.shields.io/badge/DOI-pending-lightgrey)](#citation) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/) [![Version](https://img.shields.io/badge/version-1.0.0-blue)](#changelog)
+[![DOI](https://img.shields.io/badge/DOI-pending-lightgrey)](#citation) 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/) 
+[![Version](https://img.shields.io/badge/version-1.0.0-blue)](#changelog)
 
 Apple fruit detection dataset in orchards with YOLO-style per-image labels, standardized to a COCO-compatible layout. Typical use-cases include object detection benchmarking and model training for yield estimation or counting.
 
-- Project page: `https://www.kaggle.com/datasets/projectlzp201910094/applebbch76` • Issue tracker: use this repo
+- Project page: `https://www.kaggle.com/datasets/projectlzp201910094/applebbch76` 
+- Issue tracker: use this repo
 
 ## TL;DR
 - Task: detection
-- Modality: RGB • Platform: ground • Real/Synthetic: real
-- Images: 3,169 • Classes: 1 • Resolution: various
+- Modality: RGB 
+- Platform: ground
+- Real/Synthetic: real
+- Images: 3,169 
+- Classes: 1 
+- Resolution: various
 - Annotations: YOLO (.txt) and generated COCO JSON
 - License: CC BY 4.0 (see License)
 - Citation: see below
@@ -137,7 +144,7 @@ anns = coco.loadAnns(ann_ids)
 ```
 
 ## Changelog
-- v1.0.0: initial standardized layout and COCO converter (2024-04-12)
+- V1.0.0: initial standardized layout and COCO converter (2025-08-12)
 
 ## Contact
 - Maintainer(s): community • Issues: this repo
